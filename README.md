@@ -33,5 +33,6 @@ Compact All-In-One Robotics Board for BBC micro:bit €21.50
 4xServo Micro 2.2kg.cm Plastic Gears €14.40
 Kitronic Line Follower Board €7.40
 Αισθητήρας Υπερήχων €3.60
+Jumper Wires  €3.00
 
 
